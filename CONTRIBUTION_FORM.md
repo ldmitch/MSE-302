@@ -7,7 +7,7 @@
 | Problem 3: “Who do I contact about this issue?” |  |  |  | X |
 | Problem 4: The Global Impact of Fast Fashion |  |  | X |  |
 | Problem 5: Food Waste and Insecurity on University Campuses | X |  |  |  |
-| Use of AI |  | Used for problem ideation | Used for problem ideation | None | None
+| Use of AI | Used for problem ideation | Used for problem ideation | Used for problem ideation | None | None
 | Document Organization |  | X |  |  |
 | GitHub Repository Set-up |  |  |  | X | X
 | Appointment Bookings |  | X | X |  |
