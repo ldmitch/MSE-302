@@ -11,3 +11,4 @@
 | Document Organization |  |  |  |  |
 | GitHub Repository Set-up |  |  |  | X | X
 | Appointment Bookings |  |  |  |  |
+| Cumulative Contribution | 20% | 20% | 20% | 20% | 20%
