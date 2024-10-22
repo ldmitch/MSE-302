@@ -17,3 +17,5 @@ McDonald, A., & Nicioli, T. (2023, November 24). What is fast fashion, and why i
 
 McKinsey & Company. (2023, December 7). What is fast fashion? 
     https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-fast-fashion 
+
+OpenAI. (2024). ChatGPT (Oct 11 Version) [Large language model]. https://chat.openai.com/
