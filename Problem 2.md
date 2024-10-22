@@ -13,13 +13,10 @@ students struggle to see how far along they are through their degree/option comp
 are resorting to other tools to self-manage their degree planning progress, leading to inconsistencies and errors. The academic advising team is 
 also impacted by the limitations of the tool as students are frequently inquiring and needing clarifications, adding to their workload. 
 
-Efforts to improve the shortcomings of EngAdvisor have been primarily focused on expanding the existing system and incorporating more features to the platform. 
-The 2025 Capstone team, Opt’On, is working on expanding EngAdvisor by including a recommendation algorithm, specifically for students pursuing the Management 
-Sciences Option. While this is a positive step towards addressing the problem, there have been significant challenges with updating EngAdvisor's outdated 
-technology, slowing down and complicating the development of more advanced features like the recommendation algorithm. Alternatively, an unofficial platform called 
-UWPath, serves a degree planning website for University of Waterloo students as it verifies prerequisites and degree fulfillment. However, students have noted that 
-"[the site quickly falls apart with more sophisticated use-cases](https://www.reddit.com/r/uwaterloo/comments/mlfnbb/can_wusa_propose_that_uw_implement_an_automated/)" 
+Efforts to improve the shortcomings of EngAdvisor have been primarily focused on expanding the existing system and incorporating more features to the platform. The 2025 Capstone team, Opt’On, is working on expanding EngAdvisor by including a recommendation algorithm, specifically for students pursuing the Management Sciences Option. While this is a positive step towards addressing the problem, there have been significant challenges with updating EngAdvisor's outdated technology, slowing down and complicating the development of more advanced features like the recommendation algorithm. Alternatively, an unofficial platform called UWPath, serves a degree planning website for University of Waterloo students as it verifies prerequisites and degree fulfillment. However, students have noted that "[the site quickly falls apart with more sophisticated use-cases](https://www.reddit.com/r/uwaterloo/comments/mlfnbb/can_wusa_propose_that_uw_implement_an_automated/)" 
 (ComputerBunnyMath123, 2020). Although there are ongoing efforts, there is yet a solid solution targeting option planning for Management Engineering students. 
+
+From an environmental perspective, EngAdvisor creates more reliance on physical resources like interactions with academic advisors. From a social perspective, students may face more confusion and stress due to the lack of interactive features, limiting their ability to take control of their academic journey. The economic dimension includes loss of productivity for both students and advisors, as they spend more time inquiring and addressing concerns that could be avoided through a more data-driven platform. Additionally, the outdated technologies make it challenging to update the tool without significant investment in redevelopment. As per this analysis, there is an opportunity to implement a more visual and low-tech adaptable solution that caters to the frequently changing and diverse needs of Management Engineering students. 
 
 ### References
 
