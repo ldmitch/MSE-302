@@ -1,4 +1,4 @@
-## The Global Impact of Fast Fashion 
+### The Global Impact of Fast Fashion 
 
 The term “fast fashion” refers to a business model in which inexpensive clothing is manufactured in large quantities in response to current trends. This industry is currently booming, with the biggest brands being Zara, H&M, and exclusively online stores such as Shein, Temu, and Fashion Nova (McDonald & Nicioli, 2023). In 2023, the fast fashion industry was estimated to be [worth $1.7 trillion and had approximately 300 million people working on producing clothing products](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-fast-fashion). Evidently, consumers love fast fashion; it is affordable, trendy, and convenient. In fact, in 2024, according to a report published by Business of Fashion and McKinsey, [40% of consumers in the US had shopped from Shein and Temu](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-fast-fashion). This number would be much larger if other large fast fashion retailers were included (“What is fast fashion?”, 2023). 
 
