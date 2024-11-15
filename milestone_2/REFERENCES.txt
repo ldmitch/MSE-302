@@ -1,7 +1,28 @@
-Ayatollahi, H., & Zeraatkar, K. (2019). Factors influencing the success of knowledge management process in health care organisations: a literature review. Health Information & Libraries Journal, 37(2), 98–117. https://doi.org/10.1111/hir.12285
-Ferraresi, A. A., Santos, S. a. D., Frega, J. R., & Quandt, C. O. (2014). Os impactos da gestão do conhecimento na orientação estratégica, na inovatividade e nos resultados organizacionais: uma survey com empresas instaladas no Brasil. RAM. Revista De Administração Mackenzie, 15(2), 199–231. https://doi.org/10.1590/s1678-69712014000200008
-Gonzalez, R. V. D., & Martins, M. F. (2014). Knowledge Management: an Analysis From the Organizational Development. Journal of Technology Management & Innovation, 9(1), 131–147. https://doi.org/10.4067/S0718-27242014000100011
-Imran, M. K., Bilal, A. R., Aslam, U., & Rahman, U. (2017). Knowledge management strategy: an organizational change prospective. Journal of Enterprise Information Management, 30(2), 335–351. https://doi.org/10.1108/jeim-10-2015-0095
-Latilla, V. M., Frattini, F., Petruzzelli, A. M., & Berner, M. (2018). Knowledge management, knowledge transfer and organizational performance in the arts and crafts industry: a literature review. Journal of Knowledge Management, 22(6), 1310–1331. https://doi.org/10.1108/jkm-08-2017-0367
-The only constant is change. (2017). Strategic Direction, 33(6), 35–37. https://doi.org/10.1108/sd-03-2017-0057
-Wood, S., & Reynolds, J. (2011). Knowledge management, organisational learning and memory in UK retail network planning. Service Industries Journal, 33(2), 150–170. https://doi.org/10.1080/02642069.2011.614340
+Ayatollahi, H., & Zeraatkar, K. (2019). Factors influencing the success of knowledge management
+    process in health care organisations: a literature review. Health Information & Libraries 
+    Journal, 37(2), 98–117. https://doi.org/10.1111/hir.12285
+
+Ferraresi, A. A., Santos, S. a. D., Frega, J. R., & Quandt, C. O. (2014). Os impactos da gestão
+    do conhecimento na orientação estratégica, na inovatividade e nos resultados
+    organizacionais: uma survey com empresas instaladas no Brasil. RAM. Revista De
+    Administração Mackenzie, 15(2), 199–231. https://doi.org/10.1590/s1678-69712014000200008
+
+Gonzalez, R. V. D., & Martins, M. F. (2014). Knowledge Management: an Analysis From the
+    Organizational Development. Journal of Technology Management & Innovation, 9(1), 131–147.
+    https://doi.org/10.4067/S0718-27242014000100011
+
+Imran, M. K., Bilal, A. R., Aslam, U., & Rahman, U. (2017). Knowledge management strategy: an
+    organizational change prospective. Journal of Enterprise Information Management, 30(2),
+    335–351. https://doi.org/10.1108/jeim-10-2015-0095
+
+Latilla, V. M., Frattini, F., Petruzzelli, A. M., & Berner, M. (2018). Knowledge management,
+    knowledge transfer and organizational performance in the arts and crafts industry: a
+    literature review. Journal of Knowledge Management, 22(6), 1310–1331.
+    https://doi.org/10.1108/jkm-08-2017-0367
+
+The only constant is change. (2017). Strategic Direction, 33(6), 35–37.
+    https://doi.org/10.1108/sd-03-2017-0057
+
+Wood, S., & Reynolds, J. (2011). Knowledge management, organisational learning and memory in UK
+    retail network planning. Service Industries Journal, 33(2), 150–170.
+    https://doi.org/10.1080/02642069.2011.614340
