@@ -2,6 +2,10 @@ Ayatollahi, H., & Zeraatkar, K. (2019). Factors influencing the success of knowl
     process in health care organisations: a literature review. Health Information & Libraries 
     Journal, 37(2), 98–117. https://doi.org/10.1111/hir.12285
 
+Cohen, M. D., & Bacdayan, P. (1994). Organizational Routines Are Stored as Procedural Memory: 
+    Evidence from a Laboratory Study. Organization Science, 5(4), 554–568. 
+    https://doi.org/10.1287/orsc.5.4.554
+
 Ferraresi, A. A., Santos, S. a. D., Frega, J. R., & Quandt, C. O. (2014). Os impactos da gestão
     do conhecimento na orientação estratégica, na inovatividade e nos resultados
     organizacionais: uma survey com empresas instaladas no Brasil. RAM. Revista De
@@ -20,11 +24,29 @@ Latilla, V. M., Frattini, F., Petruzzelli, A. M., & Berner, M. (2018). Knowledge
     literature review. Journal of Knowledge Management, 22(6), 1310–1331.
     https://doi.org/10.1108/jkm-08-2017-0367
 
-OpenAI. (2024). ChatGPT (Oct 11 Version) [Large language model]. 
-    https://chat.openai.com/
+Majchrzak, A., Cherbakov, L., & Ives, B. (2009). Harnessing the Power of the Crowds with 
+    Corporate Social Networking Tools: How IBM Does It. MIS Quarterly Executive, 8(2). 
+    https://www.semanticscholar.org/paper/Harnessing-the-Power-of-the-Crowds-with-Corporate
+    -Majchrzak-Cherbakov/081e01cff93ea911255c868e0e5235fe8fe47d30
+
+Nevo, D., & Wang, Y. (2005). Organizational memory information systems: A transactive 
+    memory approach. APA PsycNet, 39(4), 549–562. 
+    https://psycnet.apa.org/record/2005-05313-002
+
+Ren, Y., & Argote, L. (2011). Transactive Memory Systems 1985–2010: An Integrative Framework 
+    of key dimensions, antecedents, and Consequences. Academy of Management Annals, 5(1), 
+    189–229. https://doi.org/10.5465/19416520.2011.590300
+
+Ren, Y., Carley, K. M., & Argote, L. (2006). The contingent effects of transactive memory: 
+    When is it more beneficial to know what others know? Management Science, 52(5), 671–682. 
+    https://doi.org/10.1287/mnsc.1050.0496
 
 The only constant is change. (2017). Strategic Direction, 33(6), 35–37.
     https://doi.org/10.1108/sd-03-2017-0057
+
+Wegner, D. M., Giuliano, T., & Hertel, P. T. (1985). Cognitive interdependence in close 
+    relationships. In Springer eBooks (pp. 253–276). 
+    https://doi.org/10.1007/978-1-4612-5044-9_12
 
 Wood, S., & Reynolds, J. (2011). Knowledge management, organisational learning and memory in UK
     retail network planning. Service Industries Journal, 33(2), 150–170.
